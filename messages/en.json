@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "AboutPage": {
+    "title": "Hi, About page"
+  },
+  "Metadata": {
+    "title": "Meta Title",
+    "description": "Meta Description"
+  },
+  "Navigation": {
+    "about": "ABOUT"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ko {🇰🇷 Korean} en {🇺🇸 English} other {Unknown}}"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "안녕하세요!",
+    "about": "정보 페이지로 이동"
+  },
+  "AboutPage": {
+    "title": "여기는 어바웃 페이지"
+  },
+  "Metadata": {
+    "title": "메타 타이틀",
+    "description": "메타 설명...."
+  },
+  "Navigation": {
+    "about": "어바웃"
+  },
+  "LocaleSwitcher": {
+    "label": "언어 변경",
+    "locale": "{locale, select, ko {🇰🇷 Korean} en {🇺🇸 English} other {Unknown}}"
+  }
+}
